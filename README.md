@@ -1,5 +1,5 @@
 # 📦 PIPE_LIB DLL 函數說明
-
+AI生成說明文黨(有問題詢問比較快)
 ## 🧠 命名建議（DLL名稱）
 
 建議 DLL / Namespace：
